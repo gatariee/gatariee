@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a cybersecurity student from Singapore. 
+I'm a cybersecurity student from Singapore. I primarily do red-teaming 
 
 
 ## 🌐 Socials:
