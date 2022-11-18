@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a cybersecurity student who primarily does red-teaming and a bit of offensive research in my free time.
+I'm a cybersecurity student
 
 
 
