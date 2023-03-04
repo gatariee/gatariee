@@ -1,4 +1,5 @@
 # Hi 👋, I'm Zavier 
-I like programming and developing random tools that may or may not be useful, I research on offensive security for fun!
+## whoami
+I'm a cybersecurity student from Singapore, my interests are in programming, developing offensive tools and researching on interesting security topics.
 
 Sometimes I document my projects, research and CTF writeups on my [gitbook](https://gatari.gitbook.io/), do take a look!
