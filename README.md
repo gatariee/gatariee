@@ -6,4 +6,4 @@ Sometimes I document my projects, research and CTF writeups on my [gitbook](http
 
 ![stats](https://github-readme-stats.vercel.app/api?username=gatariee&show_icons=true&theme=tokyonight&hide=contribs)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/ username=gatariee&layout=compact&show_icons=true&theme=tokyonight&hide=javascript,html,css&exclude_repo=PSEC-Hangman, PSEC-CA1-2)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/username=gatariee&layout=compact&show_icons=true&theme=tokyonight&hide=javascript,html,css&exclude_repo=PSEC-Hangman, PSEC-CA1-2)
