@@ -4,5 +4,5 @@ I'm a wannabe red-teamer who's interests are in malware, programming, researchin
 
 Sometimes I document my projects, research and CTF writeups on my [gitbook](https://gatari.gitbook.io/), do take a look!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gatariee)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatariee&layout=compact&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=gatariee&show_icons=true&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatariee&layout=compact&show_icons=true&theme=tokyonight)
