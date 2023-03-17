@@ -1,6 +1,7 @@
-# Hello 👋
 ## whoami
-I'm a wannabe red-teamer interested in malware development, researching and collaborating on cybersecurity projects.
+Hey I'm gatari
+
+I'm a wannabe red-teamer and fake malware developer, I primarily use Python but occassionally use Golang or C 
 
 Sometimes I document my projects, research and CTF writeups on my [gitbook](https://gatari.gitbook.io/), do take a look!
 
