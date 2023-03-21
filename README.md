@@ -2,7 +2,7 @@
 
 ## whoami
 
-I'm a wannabe red-teamer and fake malware developer, I primarily use Python but occassionally use Golang or C 
+I'm a wannabe red-teamer and fake malware developer, Python but occassional C enjoyer
 
 Sometimes I document my projects, research and CTF writeups on my [gitbook](https://gatari.gitbook.io/), do take a look!
 
