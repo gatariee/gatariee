@@ -1,5 +1,3 @@
-# Hey I'm gatari
-
 ## whoami
 
 I'm a wannabe red-teamer and fake malware developer, Python but occassional C enjoyer
