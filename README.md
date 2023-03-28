@@ -1,6 +1,6 @@
 ## whoami
 
-I'm a wannabe red-teamer and fake malware developer, Python/occassional C enjoyer
+I'm a kid, wannabe red-teamer and aspiring malware developer. 
 
 Sometimes I document my projects, research and CTF writeups on my [gitbook](https://gatari.gitbook.io/), do take a look !!
 
