@@ -1,6 +1,8 @@
 ## whoami
 
-I'm a kid, wannabe red-teamer and aspiring malware developer. 
+1. I'm a kid
+2. I fix stuff
+3. I break stuff
 
 Sometimes I document my projects, research and CTF writeups on my [gitbook](https://gatari.gitbook.io/), do take a look! 
 
