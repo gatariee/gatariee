@@ -10,4 +10,4 @@ Sometimes I document my projects, research and CTF writeups on my [gitbook](http
 
 ![stats](https://api.githubtrends.io/user/svg/gatariee/repos?time_range=three_months&include_private=True&theme=dark)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatariee&layout=compact&show_icons=true&theme=tokyonight)
+![langs](https://api.githubtrends.io/user/svg/gatariee/langs?time_range=one_month&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=dark)
