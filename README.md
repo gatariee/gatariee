@@ -8,6 +8,9 @@ Aspiring red teamer & software engineer.
 
 Sometimes I document my projects, research and CTF writeups on my [gitbook](https://gatari.gitbook.io/).
 
-![stats](https://api.githubtrends.io/user/svg/gatariee/repos?time_range=three_months&group=other&loc_metric=changed&theme=dark)
-
-![langs](https://api.githubtrends.io/user/svg/gatariee/langs?time_range=one_month&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=dark)
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gatariee&show_icons=true&theme=tokyonight" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatariee&layout=compact&show_icons=true&theme=tokyonight" />
+</a>
