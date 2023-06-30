@@ -1,10 +1,6 @@
 ## whoami
 
-1. I make stuff
-2. I break stuff
-3. I fix stuff
-
-Aspiring red teamer & software engineer.
+I'm the security guy who brings a ladder to your classroom and fixes the projector.
 
 Sometimes I document my projects, research and CTF writeups on my [gitbook](https://gatari.gitbook.io/).
 
