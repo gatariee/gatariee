@@ -1,6 +1,6 @@
 ## whoami
 
-I'm a student from Singapore 🇸🇬, programmer and hacker.
+I'm a student, red team wannabe and offensive developer!
 
 If you ask me to fix your printer, I will steal your ink cartridges, and replace all of your spoons with chopsticks.
 
