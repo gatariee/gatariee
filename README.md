@@ -4,7 +4,7 @@ I'm a student, red team wannabe and offensive developer!
 
 If you ask me to fix your printer, I will steal your ink cartridges, and replace all of your spoons with chopsticks.
 
-Infosec blog: [here](https://gatari.gitbook.io/main/).
+* [Blog](https://gatari.gitbook.io/main/).
 
 ![stats](https://github-readme-stats.vercel.app/api?username=gatariee&show_icons=true&theme=tokyonight)
 <!-- 
