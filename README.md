@@ -1,6 +1,10 @@
 ## whoami
 If you ask me to fix your printer, I will steal your ink cartridges, and replace all of your spoons with chopsticks.
 
+Contact me at [gatariee](https://twitter.com/gatariee) or zavier@gatari
+dev for official stuff, or if you would like a particular set of cutleries stolen.
+
+
 * [Blog](https://gatari.dev/)
 * [Twitter](https://twitter.com/gatariee)
 
